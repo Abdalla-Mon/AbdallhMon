@@ -2534,7 +2534,7 @@ start-of-discount**/
 .disc-left p {
   text-align: center;
   line-height: 1.7;
-  width: 500px;
+  max-width: 500px;
 }
 @media screen and (min-width: 1500px) {
   .disc-left p {
