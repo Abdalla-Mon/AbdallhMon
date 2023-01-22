@@ -2534,7 +2534,7 @@ start-of-discount**/
 .disc-left p {
   text-align: center;
   line-height: 1.7;
-  max-width: 500px;
+  width: 500px;
 }
 @media screen and (min-width: 1500px) {
   .disc-left p {
@@ -2704,13 +2704,13 @@ start-of-discount**/
     flex-direction: column;
   }
 }
-.footer .box .line .if{
+.footer .box .line i {
   font-size: 25px;
   color: var(--main-color);
   margin-right: 10px;
 }
 @media (max-width: 767px) {
-  .footer .box .line .if{
+  .footer .box .line i {
     margin-right: 0;
     margin-bottom: 15px;
   }
